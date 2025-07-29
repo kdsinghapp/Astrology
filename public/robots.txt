@@ -1,0 +1,17 @@
+# https://www.robotstxt.org/robotstxt.html
+User-Agent: *
+Allow:/
+Disallow: /add_wallet/
+Disallow: /user_wallet/
+Disallow: /payment/
+Disallow: /chat_history/
+Disallow: /userprofile/
+Disallow: /chat/
+Disallow: /cart/
+Disallow: /transactions/
+Disallow: /useraddess/
+Disallow: /Order/
+Disallow: /OrderDetails/
+Disallow: /wishlist/
+Disallow: /notify/
+Sitemap: https://astropush.com/sitemap.xml
